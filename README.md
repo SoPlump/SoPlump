@@ -1,0 +1,13 @@
+My github is empty, but my gitlab is plenty: https://gitlab.com/SoPlump
+
+<!---
+- 👋 Hi, I’m @SoPlump
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+SoPlump/SoPlump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
